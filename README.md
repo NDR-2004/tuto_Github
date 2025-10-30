@@ -9,4 +9,6 @@ git init
 titre du commit
 autres
 ...
-```
+```git status
+# modification réalisée
+## Gerad est un connard! ^^
