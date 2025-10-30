@@ -4,3 +4,9 @@
 git init
 ```
 # Nahem
+## rédiger un commit
+````
+titre du commit
+autres
+...
+```
