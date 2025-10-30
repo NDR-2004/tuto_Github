@@ -5,10 +5,5 @@ git init
 ```
 # Nahem
 ## rédiger un commit
-````
-titre du commit
-autres
-...
-```git status
-# modification réalisée
-## Gerad est un connard! ^^
+```git status````
+##bonjour les modifs fuck you beach
